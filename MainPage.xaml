@@ -12,7 +12,8 @@
             <Button x:Name="Item1" Text="TapDemo" />
             <Button x:Name="Item2" Text="PinchDemo" />
             <Button x:Name="Item3" Text="PanDemo" />
-            
+            <Button x:Name="Item4" Text="SwipeDemo" />
+   
         </StackLayout>
 
     </StackLayout>

@@ -25,6 +25,10 @@ namespace Lab9Gestures
             {
                 await Navigation.PushAsync(new PanDemo());
             };
+            Item4.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new SwipeDemo());
+            };
         }
     }
 }

@@ -7,6 +7,7 @@ D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9G
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\PanDemo.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\PinchDemo.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\SwipeDemo.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\TapDemo.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\Lab9Gestures.AssemblyInfoInputs.cache
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab9Gestures\Lab9Gestures\Lab9Gestures\obj\Debug\netstandard2.0\Lab9Gestures.AssemblyInfo.cs
